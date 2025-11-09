@@ -1,1 +1,1 @@
-# finetuning_LLM
+# Finetuning an LLM for classification
